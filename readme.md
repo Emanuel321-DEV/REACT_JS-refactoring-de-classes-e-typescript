@@ -31,5 +31,5 @@ Além disso, fazer a migração de Class Components para Function Components.
 
 ![imagem-examplo-codigo-em-javascript](./public/images/resultado-final-img.PNG)
 
-[Video demostrativo](https://youtu.be/GidRDzAw3l)
+[Video demostrativo](https://m.youtube.com/watch?v=GidRDzAw3lw&feature=youtu.be)
 
