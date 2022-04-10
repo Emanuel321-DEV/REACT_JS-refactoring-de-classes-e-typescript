@@ -4,8 +4,6 @@ Nesse projeto, recebi uma aplicação que já estava funcional, e o meu objetivo
 
 Além disso, fazer a migração de Class Components para Function Components.
 
-![imagem-javascript-typescript](./public/images/js-to-ts.PNG) </br></br>
-
  **Antes:** Abaixo temos um pequeno exemplo de como estava o código antes da refatoração.
 
 ![imagem-examplo-codigo-em-javascript](./public/images/code-javascript-classes.PNG)
